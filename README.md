@@ -1,4 +1,3 @@
-# CLASE_02-09
+# EJERCICIOS NODE ING_SOFTWARE
 
-[!IMPORTANT]
-1. ESTA es una actulizacion para completar la tarea.
+El siguiente repositorio contiene ejercicios introductorios de JavaScript, para aprender la syntaxis del lenguaje.
